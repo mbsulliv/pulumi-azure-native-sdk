@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/containerservice/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/containerservice
 
 go 1.18
 
@@ -89,4 +89,3 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	lukechampine.com/frand v1.4.2 // indirect
 )
-
