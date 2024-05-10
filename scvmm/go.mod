@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/scvmm/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/scvmm
 
 go 1.18
 

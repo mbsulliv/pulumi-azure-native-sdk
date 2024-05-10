@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/analysisservices/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/analysisservices
 
 go 1.18
 

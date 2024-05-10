@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/netapp/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/netapp
 
 go 1.18
 

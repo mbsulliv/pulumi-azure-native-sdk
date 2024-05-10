@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/hybridcompute/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/hybridcompute
 
 go 1.18
 

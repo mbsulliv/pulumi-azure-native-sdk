@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/m365securityandcompliance/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/m365securityandcompliance
 
 go 1.18
 

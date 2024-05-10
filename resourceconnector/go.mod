@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/resourceconnector/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/resourceconnector
 
 go 1.18
 

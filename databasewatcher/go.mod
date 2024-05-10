@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/databasewatcher/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/databasewatcher
 
 go 1.18
 

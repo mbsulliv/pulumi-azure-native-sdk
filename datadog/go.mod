@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/datadog/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/datadog
 
 go 1.18
 

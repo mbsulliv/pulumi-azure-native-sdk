@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/dbforpostgresql/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/dbforpostgresql
 
 go 1.18
 

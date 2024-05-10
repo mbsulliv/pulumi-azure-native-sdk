@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/networkfunction/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/networkfunction
 
 go 1.18
 

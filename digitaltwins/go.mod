@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/digitaltwins/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/digitaltwins
 
 go 1.18
 

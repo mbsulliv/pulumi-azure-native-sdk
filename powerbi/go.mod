@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/powerbi/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/powerbi
 
 go 1.18
 

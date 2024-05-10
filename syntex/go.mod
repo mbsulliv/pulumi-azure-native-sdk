@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/syntex/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/syntex
 
 go 1.18
 

@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/managedidentity/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/managedidentity
 
 go 1.18
 

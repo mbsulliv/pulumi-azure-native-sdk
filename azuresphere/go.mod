@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/azuresphere/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/azuresphere
 
 go 1.18
 

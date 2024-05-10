@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-azure-native-sdk/signalrservice/v2
+module github.com/mbsulliv/pulumi-azure-native-sdk/signalrservice
 
 go 1.18
 
